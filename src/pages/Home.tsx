@@ -4,7 +4,7 @@ import Features from "../components/home/Features";
 import HowItWorks from "../components/home/HowItWorks";
 import SymptomCheckerTeaser from "../components/home/SymptomCheckerTeaser";
 import DoctorsPreview from "../components/home/DoctorsPreview";
-import MedicineDeliveryPreview from "../components/home/MedicineDeliveryPreview";
+// import MedicineDeliveryPreview from "../components/home/MedicineDeliveryPreview";
 import Stats from "../components/home/Stats";
 import Testimonials from "../components/home/Testimonials";
 import AppDownload from "../components/home/AppDownload";
