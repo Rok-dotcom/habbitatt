@@ -21,7 +21,7 @@ export default function Home() {
       <HowItWorks />
       <SymptomCheckerTeaser />
       <DoctorsPreview />
-      <MedicineDeliveryPreview />
+      {/* <MedicineDeliveryPreview /> */}
       <Stats />
       <Testimonials />
       <AppDownload />
