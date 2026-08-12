@@ -8,7 +8,7 @@ const columns = [
     links: [
       { label: "AI Symptom Analyser", to: "/ai-symptom-checker" },
       { label: "Online Consultation", to: "/services" },
-      { label: "Medicine Delivery", to: "/medicine" },
+      // { label: "Medicine Delivery", to: "/medicine" },
       { label: "Lab Test Booking", to: "/services" },
       { label: "Mental Health", to: "/services" },
     ],
